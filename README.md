@@ -1,1 +1,1 @@
-# django-crud
+# Django CRUD App
